@@ -50,7 +50,6 @@ avoid checking `git-config`.
 
 See <http://github.com/blog/180-local-github-config>
 
-
 Meta
 ====
 
